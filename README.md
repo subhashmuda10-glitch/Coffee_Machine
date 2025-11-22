@@ -1,3 +1,3 @@
 # Coffee_Machine
 
-Coffee Mschine programs using OOPS in python
+Coffee Machine programs using OOPS in python
